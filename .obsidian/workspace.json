@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Amazon Interviews.md",
+                "file": "Test.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Amazon Interviews.md",
+                "file": "Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Amazon Interviews.md",
+                "file": "Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Amazon Interviews.md"
+                "file": "Test.md"
               }
             }
           }
@@ -146,12 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "50ad0d22d4e89d4c",
+  "active": "eed2680f6e1d1c1a",
   "lastOpenFiles": [
-    "_assets",
-    "Untitled.md",
-    "Coding",
+    "Templates/Coding template.md",
     "Amazon Interviews.md",
+    "_assets",
+    "Test.md",
+    "Coding",
     "README.md",
     "Templates"
   ]
