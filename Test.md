@@ -1,4 +1,4 @@
-```dataview
+```dataviewjs
 for (
   let group of dv.pages('#companies/Amazon')
                  .groupBy(p => p.difficulty)
