@@ -1,11 +1,7 @@
 ---
 difficulty: medium
-concepts:
-  - Arrays
-  - Breadth-First Search
-  - Depth-First Search
-  - Matrix
-pattern: DFS from borders, flip values
+concepts: []
+pattern: 
 solved: true
 primaryCategory: 
 categories: 
@@ -16,7 +12,14 @@ companies:
   - Uber
 link: 
 solutionLink: 
+codeLink: 
 repetition:
 ---
 ## Similar Questions
+
+
+## Problem
+
+
+## Solution
 

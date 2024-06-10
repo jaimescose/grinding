@@ -1,22 +1,24 @@
 ---
 difficulty: medium
 concepts:
-  - Arrays
-  - Breadth-First Search
-  - Depth-First Search
-  - Matrix
-pattern: DFS from borders, flip values
+  - Array
+  - Hash Table
+  - Sorting
+pattern: 
 solved: true
 primaryCategory: 
 categories: 
-companies:
-  - Amazon
-  - Bloomberg
-  - Google
-  - Uber
+companies: 
 link: 
 solutionLink: 
+codeLink: 
 repetition:
 ---
 ## Similar Questions
+
+
+## Problem
+
+
+## Solution
 
