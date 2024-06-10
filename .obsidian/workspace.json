@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Coding template.md",
+                "file": "Coding/Contains Duplicate.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Coding template.md",
+                "file": "Coding/Contains Duplicate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Coding template.md",
+                "file": "Coding/Contains Duplicate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Coding template.md"
+                "file": "Coding/Contains Duplicate.md"
               }
             }
           }
@@ -148,9 +148,10 @@
   },
   "active": "f44736bfa8a2eb5b",
   "lastOpenFiles": [
-    "Amazon Interviews.md",
-    "Test.md",
     "Templates/Coding template.md",
+    "Coding/Contains Duplicate.md",
+    "Test.md",
+    "Amazon Interviews.md",
     "_assets",
     "Coding",
     "README.md",
