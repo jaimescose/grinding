@@ -1,8 +1,8 @@
 ---
 difficulty: medium
-concepts: []
+concepts: 
 pattern: 
-solved: true
+solved: false
 primaryCategory: 
 categories: 
 companies:

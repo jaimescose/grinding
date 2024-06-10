@@ -1,4 +1,12 @@
 ```dataviewjs
+let pages = dv.pages('"Coding"').where(p => p.includes("blind75") );
+for (let group of pages.groupBy(b => b.primaryCategory)) {
+   dv.header(3, group.key);
+   dv.table(group.rows.file.name);
+}
+```
+
+```dataviewjs
 for (
   let group of dv.pages('#companies/Amazon')
                  .groupBy(p => p.difficulty)
