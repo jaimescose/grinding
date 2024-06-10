@@ -1,10 +1,10 @@
 ---
 difficulty: medium
-concepts: 
+topics: 
 pattern: 
 solved: false
-primaryCategory: 
-categories: 
+category: 
+tags: 
 companies:
   - Amazon
   - Bloomberg
