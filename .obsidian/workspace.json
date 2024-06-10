@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Coding/217. Contains Duplicate.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Coding/217. Contains Duplicate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Coding/217. Contains Duplicate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Coding/217. Contains Duplicate.md"
               }
             }
           }
@@ -148,13 +148,15 @@
   },
   "active": "f44736bfa8a2eb5b",
   "lastOpenFiles": [
+    "Pipfile.lock",
+    "Pipfile",
+    "README.md",
     "Blind 75.md",
     "Templates/Coding template.md",
     "Coding/217. Contains Duplicate.md",
     "Amazon Interviews.md",
     "_assets",
     "Coding",
-    "README.md",
     "Templates"
   ]
 }
