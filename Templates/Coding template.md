@@ -1,7 +1,6 @@
 ---
-title: 130. Surrounded Regions
-categories:
-  - leetcode
+title: 
+categories: []
 difficulty: medium
 solved: true
 solutionPrimer: DFS from borders, flip values
