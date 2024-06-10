@@ -1,14 +1,15 @@
 ---
 title: 
-categories: 
 difficulty: medium
-solved: true
-solutionPrimer: DFS from borders, flip values
 concepts:
   - Arrays
   - Breadth-First Search
   - Depth-First Search
   - Matrix
+pattern: DFS from borders, flip values
+solved: true
+primaryCategory: 
+categories: 
 companies:
   - Amazon
   - Bloomberg
