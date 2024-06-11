@@ -1,7 +1,6 @@
 ---
 difficulty: 
 topics: 
-oneLiner: 
 solved: false
 category: 
 tags: 
@@ -12,8 +11,7 @@ companies:
   - Uber
 link: 
 solutionLink: 
-codeLink: 
-repetition:
+codeLink:
 ---
 ## Similar Questions
 
@@ -23,3 +21,11 @@ repetition:
 
 ## Solution
 
+- [oneLiner:: ]
+- [time:: ]
+- [space:: ]
+
+### Code snippet
+
+```python
+```
