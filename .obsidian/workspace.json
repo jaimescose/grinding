@@ -11,11 +11,9 @@
             "id": "df64866309ed2f56",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "vscode-editor",
               "state": {
-                "file": "coding/217. Contains Duplicate.md",
-                "mode": "source",
-                "source": false
+                "file": "coding/217_contains_duplicate.py"
               }
             }
           },
@@ -97,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coding/217. Contains Duplicate.md",
+                "file": "coding/217_contains_duplicate.py",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "coding/217. Contains Duplicate.md",
+                "file": "coding/217_contains_duplicate.py",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "coding/217. Contains Duplicate.md"
+                "file": "coding/217_contains_duplicate.py"
               }
             }
           }
@@ -159,25 +157,24 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "50ad0d22d4e89d4c",
+  "active": "df64866309ed2f56",
   "lastOpenFiles": [
+    "coding/__init__.py",
+    "coding/217. Contains Duplicate.md",
     "Mine",
     "coding/test_script.py",
     "coding/217_contains_duplicate.py",
     "Mine/Amazon Interview.md",
     "Templates/Coding template.md",
-    "coding/217. Contains Duplicate.md",
     "Blind 75.md",
     "README.md",
     "test_script.py",
     "Untitled.canvas",
     "pytest-cache-files-_r9qc9p1",
-    "coding/__init__.py",
     "Coding/Untitled.md",
     "Pipfile.lock",
     "Pipfile",
     "_assets",
-    "coding",
-    "Templates"
+    "coding"
   ]
 }
