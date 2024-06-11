@@ -28,9 +28,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "205d1f9508902663",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Coding template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "abc477dc66062ad5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "242. Valid Anagram.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -96,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coding/217. Contains Duplicate.md",
+                "file": "242. Valid Anagram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "coding/217. Contains Duplicate.md",
+                "file": "242. Valid Anagram.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "coding/217. Contains Duplicate.md"
+                "file": "242. Valid Anagram.md"
               }
             }
           }
@@ -158,15 +182,16 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "3bfd8f558772c774",
+  "active": "abc477dc66062ad5",
   "lastOpenFiles": [
-    "Mine/Amazon Interview.md",
-    "coding/217_contains_duplicate.py",
-    "coding/__init__.py",
+    "Templates/Coding template.md",
+    "242. Valid Anagram.md",
     "coding/217. Contains Duplicate.md",
+    "coding/217_contains_duplicate.py",
+    "Mine/Amazon Interview.md",
+    "coding/__init__.py",
     "Mine",
     "coding/test_script.py",
-    "Templates/Coding template.md",
     "Blind 75.md",
     "README.md",
     "test_script.py",
