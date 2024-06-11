@@ -22,8 +22,12 @@ codeLink:
 ## Solution
 
 - [oneLiner:: ]
-- [time:: ]
-- [space:: ]
+- [time:: O()]
+- [space:: O()]
+
+### Explanation
+
+Embed your video solution here
 
 ### Code snippet
 
