@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coding/217. Contains Duplicate.md",
+                "file": "Mine/Amazon Interview.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,13 +48,12 @@
               "type": "markdown",
               "state": {
                 "file": "242. Valid Anagram.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "242. Valid Anagram.md",
+                "file": "coding/217_contains_duplicate.py",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "242. Valid Anagram.md",
+                "file": "coding/217_contains_duplicate.py",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "242. Valid Anagram.md"
+                "file": "coding/217_contains_duplicate.py"
               }
             }
           }
@@ -182,13 +181,13 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "abc477dc66062ad5",
+  "active": "df64866309ed2f56",
   "lastOpenFiles": [
-    "Templates/Coding template.md",
-    "242. Valid Anagram.md",
-    "coding/217. Contains Duplicate.md",
-    "coding/217_contains_duplicate.py",
     "Mine/Amazon Interview.md",
+    "coding/217. Contains Duplicate.md",
+    "242. Valid Anagram.md",
+    "Templates/Coding template.md",
+    "coding/217_contains_duplicate.py",
     "coding/__init__.py",
     "Mine",
     "coding/test_script.py",
