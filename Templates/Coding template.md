@@ -1,5 +1,5 @@
 ---
-difficulty: medium
+difficulty: 
 topics: 
 pattern: 
 solved: false

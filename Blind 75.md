@@ -1,5 +1,6 @@
 ```dataviewjs
-let pages = dv.pages('"Coding" and #blind75');
+let pages = dv.pages('"coding" and #blind75');
+console.log(pages);
 for (let group of pages.groupBy(p => p.category)) {
    dv.header(3, group.key);
    dv.table(
