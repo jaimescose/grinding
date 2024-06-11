@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "f4f9f27997dfc2bf",
+        "id": "1e1e6b2fd0e59661",
         "type": "tabs",
         "children": [
           {
-            "id": "f44736bfa8a2eb5b",
+            "id": "9b62beb3ccf80c2d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/217. Contains Duplicate.md",
-                "mode": "preview",
-                "source": true
+                "file": "coding/217. Contains Duplicate.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/217. Contains Duplicate.md",
+                "file": "coding/217. Contains Duplicate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding/217. Contains Duplicate.md",
+                "file": "coding/217. Contains Duplicate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding/217. Contains Duplicate.md"
+                "file": "coding/217. Contains Duplicate.md"
               }
             }
           }
@@ -146,14 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f44736bfa8a2eb5b",
+  "active": "50ad0d22d4e89d4c",
   "lastOpenFiles": [
+    "coding/test_script.py",
+    "test_script.py",
+    "Untitled.canvas",
+    "coding/217. Contains Duplicate.md",
     "pytest-cache-files-_r9qc9p1",
-    "Coding/test_script.py",
-    "Coding/__init__.py",
-    "Coding/217_contains_duplicate.py",
+    "coding/__init__.py",
+    "coding/217_contains_duplicate.py",
     "Coding/Untitled.md",
-    "Coding/217. Contains Duplicate.md",
     "Pipfile.lock",
     "Pipfile",
     "README.md",
@@ -161,7 +163,7 @@
     "Templates/Coding template.md",
     "Amazon Interviews.md",
     "_assets",
-    "Coding",
+    "coding",
     "Templates"
   ]
 }
