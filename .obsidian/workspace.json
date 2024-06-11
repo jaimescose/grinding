@@ -23,13 +23,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mine/Amazon Interview.md",
+                "file": "coding/217. Contains Duplicate.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coding/217_contains_duplicate.py",
+                "file": "coding/217. Contains Duplicate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "coding/217_contains_duplicate.py",
+                "file": "coding/217. Contains Duplicate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "coding/217_contains_duplicate.py"
+                "file": "coding/217. Contains Duplicate.md"
               }
             }
           }
@@ -157,14 +158,14 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "df64866309ed2f56",
+  "active": "3bfd8f558772c774",
   "lastOpenFiles": [
+    "Mine/Amazon Interview.md",
+    "coding/217_contains_duplicate.py",
     "coding/__init__.py",
     "coding/217. Contains Duplicate.md",
     "Mine",
     "coding/test_script.py",
-    "coding/217_contains_duplicate.py",
-    "Mine/Amazon Interview.md",
     "Templates/Coding template.md",
     "Blind 75.md",
     "README.md",
