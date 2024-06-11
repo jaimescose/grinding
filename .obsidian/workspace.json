@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blind 75.md",
-                "mode": "preview",
+                "file": "coding/217. Contains Duplicate.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blind 75.md",
+                "file": "coding/217. Contains Duplicate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blind 75.md",
+                "file": "coding/217. Contains Duplicate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blind 75.md"
+                "file": "coding/217. Contains Duplicate.md"
               }
             }
           }
@@ -149,11 +149,11 @@
   },
   "active": "9b62beb3ccf80c2d",
   "lastOpenFiles": [
+    "Blind 75.md",
     "Templates/Coding template.md",
     "coding/test_script.py",
     "coding/217. Contains Duplicate.md",
     "coding/217_contains_duplicate.py",
-    "Blind 75.md",
     "test_script.py",
     "Untitled.canvas",
     "pytest-cache-files-_r9qc9p1",
