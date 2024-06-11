@@ -1,7 +1,7 @@
 ---
 difficulty: 
 topics: 
-pattern: 
+oneLiner: 
 solved: false
 category: 
 tags: 
