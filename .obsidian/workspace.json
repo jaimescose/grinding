@@ -47,13 +47,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "242. Valid Anagram.md",
+                "file": "Blind 75.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -119,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coding/217_contains_duplicate.py",
+                "file": "Blind 75.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "coding/217_contains_duplicate.py",
+                "file": "Blind 75.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "coding/217_contains_duplicate.py"
+                "file": "Blind 75.md"
               }
             }
           }
@@ -181,13 +182,13 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "df64866309ed2f56",
+  "active": "50ad0d22d4e89d4c",
   "lastOpenFiles": [
+    "coding/242. Valid Anagram.md",
+    "coding/217_contains_duplicate.py",
     "Mine/Amazon Interview.md",
     "coding/217. Contains Duplicate.md",
-    "242. Valid Anagram.md",
     "Templates/Coding template.md",
-    "coding/217_contains_duplicate.py",
     "coding/__init__.py",
     "Mine",
     "coding/test_script.py",
