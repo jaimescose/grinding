@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blind 75.md",
+                "file": "coding/217_contains_duplicate.py",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blind 75.md",
+                "file": "coding/217_contains_duplicate.py",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blind 75.md"
+                "file": "coding/217_contains_duplicate.py"
               }
             }
           }
