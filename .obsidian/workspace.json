@@ -35,19 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coding/242. Valid Anagram.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "967caf6591b94908",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unicode characters.md",
+                "file": "Templates/Coding template.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,6 +54,18 @@
             }
           },
           {
+            "id": "4a7a8864ccbf9f93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "coding/242. Valid Anagram.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "abc477dc66062ad5",
             "type": "leaf",
             "state": {
@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unicode characters.md",
+                "file": "coding/242. Valid Anagram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unicode characters.md",
+                "file": "coding/242. Valid Anagram.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unicode characters.md"
+                "file": "coding/242. Valid Anagram.md"
               }
             }
           }
@@ -204,15 +204,15 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "967caf6591b94908",
+  "active": "4a7a8864ccbf9f93",
   "lastOpenFiles": [
+    "Blind 75.md",
+    "Templates/Coding template.md",
+    "coding/217. Contains Duplicate.md",
+    "coding/217_contains_duplicate.py",
     "coding/242. Valid Anagram.md",
     "Unicode characters.md",
-    "Blind 75.md",
-    "coding/217. Contains Duplicate.md",
-    "Templates/Coding template.md",
     "coding/test_script.py",
-    "coding/217_contains_duplicate.py",
     "Mine/Amazon Interview.md",
     "coding/__init__.py",
     "Mine",

@@ -26,7 +26,7 @@ premium: false
 
 Embed your video solution here
 
-### Code snippet
+### Code
 
 ```python
 ```
