@@ -11,11 +11,9 @@
             "id": "78ef9c5edf9e5a0f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "vscode-editor",
               "state": {
-                "file": "Blind 75.md",
-                "mode": "preview",
-                "source": false
+                "file": "coding/test_script.py"
               }
             }
           },
@@ -25,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coding/242. Valid Anagram.md",
+                "file": "49. Group Anagrams.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +35,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Group Anagrams.md",
+                "file": "coding/Two Sum.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d1ff5906248455d4",
@@ -111,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Group Anagrams.md",
+                "file": "coding/test_script.py",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Group Anagrams.md",
+                "file": "coding/test_script.py",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Group Anagrams.md"
+                "file": "coding/test_script.py"
               }
             }
           }
@@ -173,20 +169,21 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "5da91b699592b037",
+  "active": "78ef9c5edf9e5a0f",
   "lastOpenFiles": [
-    "coding/242. Valid Anagram.md",
-    "Group Anagrams.md",
-    "coding/217. Contains Duplicate.md",
+    "coding/contains_duplicate.py",
+    "coding/Contains Duplicate.md",
+    "coding/valid_anagram.py",
+    "coding/Valid Anagram.md",
+    "coding/Two Sum.md",
     "Blind 75.md",
+    "49. Group Anagrams.md",
+    "Mine/Amazon Interview.md",
     "coding/test_script.py",
-    "coding/242_valid_anagram.py",
     "Templates/Coding template.md",
     "README.md",
-    "coding/217_contains_duplicate.py",
     "coding/Untitled.md",
     "Unicode characters.md",
-    "Mine/Amazon Interview.md",
     "coding/__init__.py",
     "Mine",
     "test_script.py",
