@@ -1,15 +1,13 @@
 TEST_CASES = [
-    ([1, 2, 3, 1], True),
-    ([1, 2, 3, 4], False),
-    ([1, 1, 1, 3, 3, 4, 3, 2, 4, 2], True),
+    (("anagram", "nagaram"), True),
+    (("rat", "car"), False),
+    (("care", "race"), True),
+    (("cars", "car"), True),
 ]
 
-def main(numbers_list: list[int]) -> bool:
-    numbers = set()
-
-    for n in numbers_list:
-        if n in numbers:
-            return True
-        numbers.add(n)
+def main(s: str, t: str) -> bool:
     
-    return False
+    if len(s) != len(t):
+        return False
+    
+    for c1, c2 in zip(s, t)

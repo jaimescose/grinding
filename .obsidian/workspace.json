@@ -102,7 +102,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coding/test_script.py",
+                "file": "coding/242_valid_anagram.py",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "coding/test_script.py",
+                "file": "coding/242_valid_anagram.py",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "coding/test_script.py"
+                "file": "coding/242_valid_anagram.py"
               }
             }
           }
@@ -230,12 +231,12 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "78ef9c5edf9e5a0f",
+  "active": "218b09a4278d60a5",
   "lastOpenFiles": [
-    "coding/242_valid_anagram.py",
-    "coding/test_script.py",
     "coding/242. Valid Anagram.md",
+    "coding/242_valid_anagram.py",
     "coding/217_contains_duplicate.py",
+    "coding/test_script.py",
     "coding/217. Contains Duplicate.md",
     "coding/Untitled.md",
     "Blind 75.md",
