@@ -11,9 +11,11 @@
             "id": "7f288c55f70c056c",
             "type": "leaf",
             "state": {
-              "type": "vscode-editor",
+              "type": "markdown",
               "state": {
-                "file": "coding/contains_duplicate.py"
+                "file": "Mine/Amazon Interview.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -117,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coding/contains_duplicate.py",
+                "file": "Mine/Amazon Interview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "coding/contains_duplicate.py",
+                "file": "Mine/Amazon Interview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "coding/contains_duplicate.py"
+                "file": "Mine/Amazon Interview.md"
               }
             }
           }
@@ -181,6 +183,7 @@
   },
   "active": "7f288c55f70c056c",
   "lastOpenFiles": [
+    "coding/contains_duplicate.py",
     "coding/Contains Duplicate.md",
     "coding/valid_anagram.py",
     "coding/Valid Anagram.md",
@@ -190,7 +193,6 @@
     "Blind 75.md",
     "Templates/Coding template.md",
     "coding/test_script.py",
-    "coding/contains_duplicate.py",
     "Mine/Amazon Interview.md",
     "README.md",
     "coding/Untitled.md",
