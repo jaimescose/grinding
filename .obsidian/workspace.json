@@ -66,6 +66,16 @@
             }
           },
           {
+            "id": "d3011b2ff1fa1dbf",
+            "type": "leaf",
+            "state": {
+              "type": "vscode-editor",
+              "state": {
+                "file": "coding/217_contains_duplicate.py"
+              }
+            }
+          },
+          {
             "id": "e059752171d211c2",
             "type": "leaf",
             "state": {
@@ -96,9 +106,11 @@
             "id": "218b09a4278d60a5",
             "type": "leaf",
             "state": {
-              "type": "vscode-editor",
+              "type": "markdown",
               "state": {
-                "file": "coding/242_valid_anagram.py"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -169,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coding/242_valid_anagram.py",
+                "file": "coding/242. Valid Anagram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "coding/242_valid_anagram.py",
+                "file": "coding/242. Valid Anagram.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "coding/242_valid_anagram.py"
+                "file": "coding/242. Valid Anagram.md"
               }
             }
           }
@@ -231,13 +243,14 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "218b09a4278d60a5",
+  "active": "4a7a8864ccbf9f93",
   "lastOpenFiles": [
-    "coding/test_script.py",
-    "coding/242_valid_anagram.py",
-    "coding/242. Valid Anagram.md",
     "coding/217_contains_duplicate.py",
     "coding/217. Contains Duplicate.md",
+    "coding/242. Valid Anagram.md",
+    "README.md",
+    "coding/242_valid_anagram.py",
+    "coding/test_script.py",
     "coding/Untitled.md",
     "Blind 75.md",
     "Templates/Coding template.md",
@@ -245,7 +258,6 @@
     "Mine/Amazon Interview.md",
     "coding/__init__.py",
     "Mine",
-    "README.md",
     "test_script.py",
     "Untitled.canvas",
     "pytest-cache-files-_r9qc9p1",
