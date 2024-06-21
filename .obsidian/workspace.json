@@ -4,101 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "7b7c45ce1cf0b325",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "df64866309ed2f56",
-            "type": "leaf",
-            "state": {
-              "type": "vscode-editor",
-              "state": {
-                "file": "coding/217_contains_duplicate.py"
-              }
-            }
-          },
-          {
-            "id": "3bfd8f558772c774",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mine/Amazon Interview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "205d1f9508902663",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Coding template.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "96a6896256f09eb5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "coding/217. Contains Duplicate.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d6ca8051424d520",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Coding template.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a7a8864ccbf9f93",
-            "type": "leaf",
-            "state": {
-              "type": "vscode-editor",
-              "state": {
-                "file": "coding/242_valid_anagram.py"
-              }
-            }
-          },
-          {
-            "id": "d3011b2ff1fa1dbf",
-            "type": "leaf",
-            "state": {
-              "type": "vscode-editor",
-              "state": {
-                "file": "coding/217_contains_duplicate.py"
-              }
-            }
-          },
-          {
-            "id": "e059752171d211c2",
-            "type": "leaf",
-            "state": {
-              "type": "vscode-editor",
-              "state": {
-                "file": "coding/217_contains_duplicate.py"
-              }
-            }
-          }
-        ],
-        "currentTab": 5
-      },
-      {
         "id": "fb6e11a452703312",
         "type": "tabs",
         "children": [
@@ -106,13 +11,40 @@
             "id": "78ef9c5edf9e5a0f",
             "type": "leaf",
             "state": {
-              "type": "vscode-editor",
+              "type": "markdown",
               "state": {
-                "file": "coding/test_script.py"
+                "file": "Blind 75.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2fe2097fbf962dbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "coding/242. Valid Anagram.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5da91b699592b037",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Group Anagrams.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -162,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d1ff5906248455d4",
@@ -178,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coding/242_valid_anagram.py",
+                "file": "Group Anagrams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "coding/242_valid_anagram.py",
+                "file": "Group Anagrams.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "coding/242_valid_anagram.py"
+                "file": "Group Anagrams.md"
               }
             }
           }
@@ -240,16 +173,17 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "4a7a8864ccbf9f93",
+  "active": "5da91b699592b037",
   "lastOpenFiles": [
     "coding/242. Valid Anagram.md",
-    "Templates/Coding template.md",
+    "Group Anagrams.md",
     "coding/217. Contains Duplicate.md",
     "Blind 75.md",
     "coding/test_script.py",
+    "coding/242_valid_anagram.py",
+    "Templates/Coding template.md",
     "README.md",
     "coding/217_contains_duplicate.py",
-    "coding/242_valid_anagram.py",
     "coding/Untitled.md",
     "Unicode characters.md",
     "Mine/Amazon Interview.md",
