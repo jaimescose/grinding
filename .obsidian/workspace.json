@@ -66,7 +66,24 @@
             }
           },
           {
-            "id": "abc477dc66062ad5",
+            "id": "e059752171d211c2",
+            "type": "leaf",
+            "state": {
+              "type": "vscode-editor",
+              "state": {
+                "file": "coding/217_contains_duplicate.py"
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "fb6e11a452703312",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78ef9c5edf9e5a0f",
             "type": "leaf",
             "state": {
               "type": "vscode-editor",
@@ -74,9 +91,18 @@
                 "file": "coding/test_script.py"
               }
             }
+          },
+          {
+            "id": "218b09a4278d60a5",
+            "type": "leaf",
+            "state": {
+              "type": "vscode-editor",
+              "state": {
+                "file": "coding/242_valid_anagram.py"
+              }
+            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coding/242. Valid Anagram.md",
+                "file": "coding/test_script.py",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "coding/242. Valid Anagram.md",
+                "file": "coding/test_script.py",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "coding/242. Valid Anagram.md"
+                "file": "coding/test_script.py"
               }
             }
           }
@@ -204,15 +230,17 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "4a7a8864ccbf9f93",
+  "active": "78ef9c5edf9e5a0f",
   "lastOpenFiles": [
+    "coding/242_valid_anagram.py",
+    "coding/test_script.py",
+    "coding/242. Valid Anagram.md",
+    "coding/217_contains_duplicate.py",
+    "coding/217. Contains Duplicate.md",
+    "coding/Untitled.md",
     "Blind 75.md",
     "Templates/Coding template.md",
-    "coding/217. Contains Duplicate.md",
-    "coding/217_contains_duplicate.py",
-    "coding/242. Valid Anagram.md",
     "Unicode characters.md",
-    "coding/test_script.py",
     "Mine/Amazon Interview.md",
     "coding/__init__.py",
     "Mine",
@@ -223,7 +251,6 @@
     "Coding/Untitled.md",
     "Pipfile.lock",
     "Pipfile",
-    "_assets",
-    "coding"
+    "_assets"
   ]
 }
