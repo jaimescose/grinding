@@ -2,15 +2,14 @@ TEST_CASES = [
     (("anagram", "nagaram"), True),
     (("rat", "car"), False),
     (("care", "race"), True),
-    (("cars", "car"), True),
+    (("cars", "car"), False),
 ]
 
 def main(s: str, t: str) -> bool:
-    
-    
+    return optimized_2(s, t)
     
 
-def optimized_2() -> bool:
+def optimized_2(s: str, t: str) -> bool:
     if len(s) != len(t):
         return False
     
@@ -26,6 +25,12 @@ def optimized_2() -> bool:
             t_counter[t_char] = 1
         else:
             t_counter[t_char] += 1
+    
+    for k, v in s_counter.items():
+        if v != t_counter.get(k, 0):
+            return False
+    
+    return True
 
         
 
