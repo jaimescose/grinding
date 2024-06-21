@@ -15,7 +15,7 @@ link: https://leetcode.com/problems/valid-anagram/description/
 solutionLink: 
 codeLink: https://github.com/neetcode-gh/leetcode/blob/main/python/0242-valid-anagram.py
 premium: false
-code: obsidian://open?vault=grinding&file=coding%2F242_valid_anagram.py
+code: obsidian://open?vault=grinding&file=coding%2Fvalid_anagram.py
 ---
 ## Similar Questions
 

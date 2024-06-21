@@ -14,6 +14,8 @@ companies:
 link: https://leetcode.com/problems/contains-duplicate/description/
 solutionLink: https://www.youtube.com/watch?v=3OamzN90kPg
 codeLink: https://github.com/neetcode-gh/leetcode/blob/main/python/0217-contains-duplicate.py
+premium: 
+code: obsidian://open?vault=grinding&file=coding%2Fcontains_duplicate.py
 ---
 ## Similar Questions
 

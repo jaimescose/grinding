@@ -1,6 +1,6 @@
 ---
 solved: false
-difficulty: 
+difficulty: easy
 category: Arrays & Hashing
 topics: 
 tags:
