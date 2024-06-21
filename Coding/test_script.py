@@ -1,7 +1,7 @@
 import importlib
 
 import pytest
-problem = importlib.import_module('coding.242_valid_anagram')
+problem = importlib.import_module('coding.valid_anagram')
 
 @pytest.mark.parametrize("test,expected", problem.TEST_CASES)
 def test_results(test, expected):

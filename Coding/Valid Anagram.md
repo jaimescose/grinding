@@ -18,7 +18,7 @@ code: obsidian://open?vault=grinding&file=coding%2F242_valid_anagram.py
 ---
 ## Similar Questions
 
-- [[49. Group Anagrams]]
+- [[Group Anagrams]]
 - [[Palindrome Permutation]]
 - [[Find All Anagrams in a String]]
 - [[Find Resulting Array After Removing Anagrams]]
