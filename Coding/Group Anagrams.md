@@ -7,8 +7,10 @@ topics:
   - Hash Table
   - Sorting
   - String
-tags: 
-companies: Amazon
+tags:
+  - neetcode150
+companies:
+  - Amazon
 link: https://leetcode.com/problems/group-anagrams/description/
 solutionLink: 
 codeLink: 
@@ -23,14 +25,13 @@ code:
 - [Count Anagrams](https://leetcode.com/problems/count-anagrams/)
 ## Problem
 
+```
 Given an array of strings `strs`, group **the anagrams** together. You can return the answer in **any order**.
 
 An **Anagram** is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once.
 
 **Example 1:**
 
-````
-```
 **Input:** strs = ["eat","tea","tan","ate","nat","bat"]
 **Output:** [["bat"],["nat","tan"],["ate","eat","tea"]]
 
@@ -49,6 +50,7 @@ An **Anagram** is a word or phrase formed by rearranging the letters of a diff
 - `1 <= strs.length <= 104`
 - `0 <= strs[i].length <= 100`
 - `strs[i]` consists of lowercase English letters.
+```
 ## Solution
 
 - [oneLiner:: ]
@@ -57,7 +59,7 @@ An **Anagram** is a word or phrase formed by rearranging the letters of a diff
 
 ### Explanation
 
-Embed your video solution here
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vzdNOK2oB2E?si=OjsGKHH4GZ0mNnpv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Code
 

@@ -1,9 +1,11 @@
 ---
 solved: false
 difficulty: 
-category: 
+category: Arrays & Hashing
 topics: 
-tags: 
+tags:
+  - blind75
+  - neetcode150
 companies: 
 link: 
 solutionLink: 

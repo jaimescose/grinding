@@ -8,6 +8,7 @@ solved: true
 category: Arrays & Hashing
 tags:
   - blind75
+  - neetcode150
 companies:
   - Microsoft
 link: https://leetcode.com/problems/contains-duplicate/description/
