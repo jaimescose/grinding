@@ -23,6 +23,3 @@ def optimized_2(s: str, t: str) -> bool:
             return False
     
     return True
-
-        
-

@@ -4,11 +4,12 @@ difficulty:
 category: 
 topics: 
 tags: 
-companies: []
+companies: 
 link: 
 solutionLink: 
 codeLink: 
 premium: false
+code:
 ---
 ## Similar Questions
 
@@ -28,5 +29,4 @@ Embed your video solution here
 
 ### Code
 
-```python
-```
+[Code]()
