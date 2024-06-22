@@ -29,11 +29,12 @@ Here you could find some predefined table views, built with [Dataview](https://b
 
 You could show there any property defined in your problem Markdown file. Here is the list of currently supported properties + [Dataviews' Implicit fields](https://blacksmithgu.github.io/obsidian-dataview/annotation/metadata-pages/#implicit-fields):
 
-| property   | meaning                                        | type     | Values             |
-| ---------- | ---------------------------------------------- | -------- | ------------------ |
-| solved     | whether you've solved the problem              | Checkbox | true, false        |
-| difficulty | difficulty assigned by Leetcode                | Text     | easy, medium, hard |
-| category   | it's basically based on the category assigned  |          |                    |
+| property   | meaning                                                                                   | type     | Values                                                                                                                                                                                                                                                                |
+| ---------- | ----------------------------------------------------------------------------------------- | -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| solved     | whether you've solved the problem                                                         | Checkbox | true, false                                                                                                                                                                                                                                                           |
+| difficulty | culty assigned by Leetco                                                                  | Text     | easy, medium, hard                                                                                                                                                                                                                                                    |
+| category   | it's basically based on the category assigned by [Neetcode](https://neetcode.io/practice) | Text     | Arrays & Hashing, Two Pointers, Sliding Window, Stack, Binary Search, Linked List, Trees, Heap / Priority Queue, Backtracking, Tries, Graphs, Advanced Graphs, 1-D Dynamic Programming, 2-D Dynamic Programming, Greedy, Intervals, Math & Geometry, Bit Manipulation |
+| topics     |                                                                                           |          |                                                                                                                                                                                                                                                                       |
 
 ## Resources
 
