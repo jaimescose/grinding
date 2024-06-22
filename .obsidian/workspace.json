@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Coding template.md",
+                "file": "Templates/View.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c9ab91cced43e14e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Not Solved.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +50,7 @@
               "type": "markdown",
               "state": {
                 "file": "coding/Group Anagrams.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -56,7 +68,7 @@
             }
           },
           {
-            "id": "1b6e3fce1a7f7e1f",
+            "id": "6d95c63c38248636",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coding/Contains Duplicate.md",
+                "file": "Not Solved.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "coding/Contains Duplicate.md",
+                "file": "Not Solved.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "coding/Contains Duplicate.md"
+                "file": "Not Solved.md"
               }
             }
           }
@@ -196,16 +208,18 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "fbd8bd57a3105e15",
+  "active": "c9ab91cced43e14e",
   "lastOpenFiles": [
+    "Templates/View.md",
+    "Not Solved.md",
+    "Not Solved.md",
     "Templates/Coding template.md",
+    "coding/Group Anagrams.md",
     "coding/Valid Anagram.md",
     "coding/Two Sum.md",
-    "coding/Group Anagrams.md",
-    "coding/Contains Duplicate.md",
-    "All.md",
-    "README.md",
     "Blind 75.md",
+    "coding/Contains Duplicate.md",
+    "README.md",
     "Mine/Unicode characters.md",
     "NeetCode 150.md",
     "Mine/Amazon Interview.md",

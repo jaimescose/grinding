@@ -24,4 +24,4 @@ Embed your video solution here
 - [oneLiner:: ]
 - [time:: O()]
 - [space:: O()]
-- [code:: [[]]]
+- [code:: ]

@@ -1,5 +1,4 @@
 ---
-resource: problem
 solved: false
 difficulty: medium
 category: Arrays & Hashing
@@ -10,6 +9,7 @@ topics:
   - String
 tags:
   - neetcode150
+  - problem
 companies:
   - Amazon
 link: https://leetcode.com/problems/group-anagrams/description/
@@ -57,4 +57,4 @@ An **Anagram** is a word or phrase formed by rearranging the letters of a diff
 - [oneLiner:: ]
 - [time:: O()]
 - [space:: O()]
-- [code:: [[]]]
+- [code:: ]

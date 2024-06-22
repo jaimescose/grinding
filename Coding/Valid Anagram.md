@@ -1,5 +1,4 @@
 ---
-resource: problem
 solved: true
 difficulty: easy
 category: Arrays & Hashing
@@ -10,6 +9,7 @@ topics:
 tags:
   - blind75
   - neetcode150
+  - problem
 companies:
   - Uber
 link: https://leetcode.com/problems/valid-anagram/description/
