@@ -1,6 +1,6 @@
 # grinding (WIP)
 
-Obsidian vault to help you keep track of the [Leetcode]([LeetCode - The World's Leading Online Programming Learning Platform](https://leetcode.com/)) problems you've solved, and are willing to solve.
+Obsidian vault to help you keep track of the [Leetcode](https://leetcode.com/) problems you've solved, and are willing to solve.
 
 I've organized this vault in such a way that the friction for you to just grab a new problem, analyze it, solve it, and document it, it's the smoothest one possible (given that you've used [Obsidian]() before. Otherwise, would take you some time to get it through the learning curve)
 
