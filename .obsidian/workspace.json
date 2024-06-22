@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coding/Contains Duplicate.md",
+                "file": "Templates/Coding template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "coding/Contains Duplicate.md",
+                "file": "Templates/Coding template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "coding/Contains Duplicate.md"
+                "file": "Templates/Coding template.md"
               }
             }
           }
@@ -223,10 +223,10 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "7f288c55f70c056c",
+  "active": "564db6f2f4b95d67",
   "lastOpenFiles": [
-    "Templates/Coding template.md",
     "coding/Contains Duplicate.md",
+    "Templates/Coding template.md",
     "coding/Valid Anagram.md",
     "coding/Group Anagrams.md",
     "coding/Two Sum.md",

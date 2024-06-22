@@ -17,8 +17,6 @@ premium: false
 - 
 ## Problem
 
-```
-```
 
 ## Video Explanation
 
