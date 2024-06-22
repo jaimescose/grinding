@@ -3,7 +3,8 @@ solved: false
 difficulty: 
 category: 
 topics: 
-tags: 
+tags:
+  - problem
 companies: 
 link: 
 premium: false

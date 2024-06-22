@@ -1,4 +1,5 @@
 ---
+resource: problem
 solved: false
 difficulty: medium
 category: Arrays & Hashing
@@ -12,10 +13,7 @@ tags:
 companies:
   - Amazon
 link: https://leetcode.com/problems/group-anagrams/description/
-solutionLink: 
-codeLink: 
 premium: false
-code:
 ---
 ## Similar Questions
 

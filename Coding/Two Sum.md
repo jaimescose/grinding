@@ -1,4 +1,5 @@
 ---
+resource: problem
 solved: false
 difficulty: easy
 category: Arrays & Hashing

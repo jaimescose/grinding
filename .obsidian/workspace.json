@@ -4,23 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "315851bc00955e9f",
+        "id": "606d581303131bb1",
         "type": "tabs",
         "children": [
           {
-            "id": "bb77cab5a5977688",
+            "id": "e12e1167990d5db4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "All.md",
+                "file": "Templates/Coding template.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c5b8df599ff3cc01",
+            "id": "fbd8bd57a3105e15",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,19 +32,7 @@
             }
           },
           {
-            "id": "2591adc5d571c7a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "coding/Valid Anagram.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a3707d1784d78c42",
+            "id": "b9071f41059ab111",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -56,7 +44,7 @@
             }
           },
           {
-            "id": "e2de2d97ecd31ead",
+            "id": "e8dabeeb631d0885",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -68,31 +56,7 @@
             }
           },
           {
-            "id": "c926baa3f74211c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dd7b7c39352e81d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "coding/Contains Duplicate.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f3eb59729742c30b",
+            "id": "1b6e3fce1a7f7e1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -100,28 +64,6 @@
                 "file": "coding/Valid Anagram.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "f7eccb9017b0e4e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "coding/Group Anagrams.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "33941ff88dd58f05",
-            "type": "leaf",
-            "state": {
-              "type": "vscode-editor",
-              "state": {
-                "file": "coding/valid_anagram.py"
               }
             }
           }
@@ -155,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -254,15 +196,15 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "c5b8df599ff3cc01",
+  "active": "fbd8bd57a3105e15",
   "lastOpenFiles": [
-    "All.md",
-    "coding/Valid Anagram.md",
-    "coding/Group Anagrams.md",
-    "README.md",
-    "coding/Two Sum.md",
     "Templates/Coding template.md",
+    "coding/Valid Anagram.md",
+    "coding/Two Sum.md",
+    "coding/Group Anagrams.md",
     "coding/Contains Duplicate.md",
+    "All.md",
+    "README.md",
     "Blind 75.md",
     "Mine/Unicode characters.md",
     "NeetCode 150.md",
