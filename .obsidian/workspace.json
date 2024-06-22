@@ -4,29 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d4b83eb6fdfd5f28",
+        "id": "e8684ecf2a8dc274",
         "type": "tabs",
         "children": [
           {
-            "id": "1b9fd6a24e06c353",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Coding template.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "2cf650cf7ee20e8a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "48aa5872dd45e3a3",
+            "id": "ad4ec7faa3b95dda",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -38,7 +20,7 @@
             }
           },
           {
-            "id": "e9f27bc01edd52e7",
+            "id": "83d0974d6e9248c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -50,7 +32,7 @@
             }
           },
           {
-            "id": "21495e9a59c4f90d",
+            "id": "ed2d1548d03d99d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -62,7 +44,7 @@
             }
           },
           {
-            "id": "5649359cf484f6b8",
+            "id": "0e3b985b258fbab0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -74,19 +56,19 @@
             }
           },
           {
-            "id": "04125a6795c4c255",
+            "id": "aa505b9944e10a47",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coding/Valid Anagram.md",
+                "file": "Blind 75.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -152,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coding/Valid Anagram.md",
+                "file": "Blind 75.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "coding/Valid Anagram.md",
+                "file": "Blind 75.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "coding/Valid Anagram.md"
+                "file": "Blind 75.md"
               }
             }
           }
@@ -214,28 +196,28 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "5649359cf484f6b8",
+  "active": "aa505b9944e10a47",
   "lastOpenFiles": [
+    "README.md",
+    "coding/Valid Anagram.md",
     "coding/Two Sum.md",
     "coding/Group Anagrams.md",
     "coding/Contains Duplicate.md",
     "Templates/View.md",
-    "coding/Valid Anagram.md",
-    "README.md",
+    "Templates/Coding template.md",
+    "mine/Amazon Interview.md",
+    "mine/Unicode characters.md",
+    "NeetCode 150.md",
+    "Blind 75.md",
+    "All.md",
     "_assets/Pasted image 20240621225158.png",
     "_assets/Pasted image 20240621224927.png",
-    "Blind 75.md",
-    "Templates/Coding template.md",
-    "All.md",
-    "Mine/Unicode characters.md",
-    "NeetCode 150.md",
-    "Mine/Amazon Interview.md",
     "coding/contains_duplicate.py",
     "coding/valid_anagram.py",
     "coding/test_script.py",
     "coding/Untitled.md",
     "coding/__init__.py",
-    "Mine",
+    "mine",
     "test_script.py",
     "Untitled.canvas",
     "pytest-cache-files-_r9qc9p1",

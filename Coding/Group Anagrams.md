@@ -17,7 +17,7 @@ premium: false
 ---
 ## Similar Questions
 
-- [[Valid Anagram]]
+- [Valid Anagram](Valid%20Anagram.md)
 - [Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings/)
 - [Find Resultant Array After Removing Anagrams](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/)
 - [Count Anagrams](https://leetcode.com/problems/count-anagrams/)

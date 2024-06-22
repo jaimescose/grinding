@@ -6,6 +6,6 @@
     "Pipfile",
     "Pifile.lock"
   ],
-  "newLinkFormat": "relative",
+  "newLinkFormat": "shortest",
   "useMarkdownLinks": true
 }

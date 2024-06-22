@@ -17,7 +17,7 @@ premium: false
 ---
 ## Similar Questions
 
-- [[Group Anagrams]]
+- [Group Anagrams](Group%20Anagrams.md)
 - [[Palindrome Permutation]]
 - [[Find All Anagrams in a String]]
 - [[Find Resulting Array After Removing Anagrams]]
@@ -42,7 +42,7 @@ An **Anagram** is a word or phrase formed by rearranging the letters of a diff
 - `1 <= s.length, t.length <= 5 * 104`
 - `s` and `t` consist of lowercase English letters.
 
-**Follow up:** What if the inputs contain [[Unicode characters]]? How would you adapt your solution to such a case?
+**Follow up:** What if the inputs contain [Unicode characters](../mine/Unicode%20characters.md)? How would you adapt your solution to such a case?
 
 ## Video Explanation
 
