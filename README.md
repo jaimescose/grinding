@@ -1,6 +1,6 @@
 # grinding
 
-Obsidian vault to help you keep track of the Leetcode problems you've solved, and are willing to solve.
+Obsidian vault to help you keep track of the [Leetcode]([LeetCode - The World's Leading Online Programming Learning Platform](https://leetcode.com/)) problems you've solved, and are willing to solve.
 
 I've organized this vault in such a way that the friction for you to just grab a new problem, analyze it, solve it, and document it, it's the smoothest one possible (given that you've used [Obsidian]() before. Otherwise, would take you some time to get it through the learning curve)
 
@@ -29,7 +29,12 @@ Here you could find some predefined table views, built with [Dataview](https://b
 
 You could show there any property defined in your problem Markdown file. Here is the list of currently supported properties + [Dataviews' Implicit fields](https://blacksmithgu.github.io/obsidian-dataview/annotation/metadata-pages/#implicit-fields):
 
-- 
+| property   | meaning                                        | type     | Values             |
+| ---------- | ---------------------------------------------- | -------- | ------------------ |
+| solved     | whether you've solved the problem              | Checkbox | true, false        |
+| difficulty | difficulty assigned by Leetcode                | Text     | easy, medium, hard |
+| category   | it's basically based on the category assigned  |          |                    |
+
 ## Resources
 
 - Time and space complexity calculator: [Big O Calc](https://www.bigocalc.com/)
