@@ -12,10 +12,7 @@ tags:
 companies:
   - Microsoft
 link: https://leetcode.com/problems/contains-duplicate/description/
-solutionLink: https://www.youtube.com/watch?v=3OamzN90kPg
-codeLink: https://github.com/neetcode-gh/leetcode/blob/main/python/0217-contains-duplicate.py
-premium: 
-code: obsidian://open?vault=grinding&file=coding%2Fcontains_duplicate.py
+premium: false
 ---
 ## Similar Questions
 
@@ -45,11 +42,6 @@ Given an integer array `nums`, return `true` if any value appears **at least
 
 - `1 <= nums.length <= 105`
 - `-109 <= nums[i] <= 109`
-
-## Links
-
-- [neetcode:: ]
-- [onlineSolution:: https://github.com/neetcode-gh/leetcode/blob/main/python/0217-contains-duplicate.py]
 
 ### Explanation
 
