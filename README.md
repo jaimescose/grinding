@@ -7,27 +7,27 @@ I've organized this vault in such a way that the friction for you to just grab a
 ## What you could find
 
 ```shel
-.
 ├── All.md
 ├── Blind 75.md
 ├── NeetCode 150.md
 ├── Pipfile
 ├── Pipfile.lock
-├── README.md
 ├── Templates
 │   ├── Coding template.md
 │   └── View.md
 ├── _assets
 └── coding
-    ├── Contains Duplicate.md
-    ├── Group Anagrams.md
-    ├── Two Sum.md
-    ├── Valid Anagram.md
-    ├── __init__.py
-    ├── contains_duplicate.py
-    ├── test_script.py
-    └── valid_anagram.py
+	├── __init__.py
+    ├── Problem.md
+    ├── problem.py
+    └── test_script.py
 ```
+
+### Root
+
+Here you could find some predefined table views, built with [Dataview](https://blacksmithgu.github.io/obsidian-dataview/api/intro/) (an Obsidian community plugin), where you could visualize all the problems (Markdown files) within your `/coding` folder.
+
+
 ## Resources
 
 - Time and space complexity calculator: [Big O Calc](https://www.bigocalc.com/)
