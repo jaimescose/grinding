@@ -8,27 +8,21 @@ tags:
   - neetcode150
 companies: 
 link: 
-solutionLink: 
-codeLink: 
 premium: false
-code:
 ---
 ## Similar Questions
 
-
+- 
 ## Problem
 
+
+## Video Explanation
+
+Embed your video solution here
 
 ## Solution
 
 - [oneLiner:: ]
 - [time:: O()]
 - [space:: O()]
-
-### Explanation
-
-Embed your video solution here
-
-### Code
-
-[Code]()
+- [code:: [[]]]

@@ -4,27 +4,69 @@
     "type": "split",
     "children": [
       {
-        "id": "3b3f1d9194fab2ca",
+        "id": "315851bc00955e9f",
         "type": "tabs",
         "children": [
           {
-            "id": "f8c08a792c21bf13",
+            "id": "bb77cab5a5977688",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Coding template.md",
+                "file": "All.md",
                 "mode": "source",
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "315851bc00955e9f",
-        "type": "tabs",
-        "children": [
+          },
+          {
+            "id": "c5b8df599ff3cc01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "coding/Contains Duplicate.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2591adc5d571c7a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "coding/Valid Anagram.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a3707d1784d78c42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "coding/Group Anagrams.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e2de2d97ecd31ead",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "coding/Two Sum.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
           {
             "id": "c926baa3f74211c8",
             "type": "leaf",
@@ -74,18 +116,6 @@
             }
           },
           {
-            "id": "bb77cab5a5977688",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "coding/Two Sum.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "33941ff88dd58f05",
             "type": "leaf",
             "state": {
@@ -96,7 +126,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coding/Group Anagrams.md",
+                "file": "coding/Contains Duplicate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "coding/Group Anagrams.md",
+                "file": "coding/Contains Duplicate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "coding/Group Anagrams.md"
+                "file": "coding/Contains Duplicate.md"
               }
             }
           }
@@ -224,16 +254,16 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "f7eccb9017b0e4e5",
+  "active": "c5b8df599ff3cc01",
   "lastOpenFiles": [
+    "All.md",
     "coding/Valid Anagram.md",
     "coding/Group Anagrams.md",
-    "coding/Contains Duplicate.md",
-    "Templates/Coding template.md",
     "README.md",
-    "All.md",
-    "Blind 75.md",
     "coding/Two Sum.md",
+    "Templates/Coding template.md",
+    "coding/Contains Duplicate.md",
+    "Blind 75.md",
     "Mine/Unicode characters.md",
     "NeetCode 150.md",
     "Mine/Amazon Interview.md",
