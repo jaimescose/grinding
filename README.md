@@ -25,9 +25,11 @@ I've organized this vault in such a way that the friction for you to just grab a
 
 ### Root
 
-Here you could find some predefined table views, built with [Dataview](https://blacksmithgu.github.io/obsidian-dataview/api/intro/) (an Obsidian community plugin), where you could visualize all the problems (Markdown files) within your `/coding` folder.
+Here you could find some predefined table views, built with [Dataview](https://blacksmithgu.github.io/obsidian-dataview/api/intro/) (an Obsidian community plugin), where you could visualize all the problems (Markdown files) within your `/coding` folder
 
+You could show there any property defined in your problem Markdown file. Here is the list of currently supported properties + [Dataviews' Implicit fields](https://blacksmithgu.github.io/obsidian-dataview/annotation/metadata-pages/#implicit-fields):
 
+- 
 ## Resources
 
 - Time and space complexity calculator: [Big O Calc](https://www.bigocalc.com/)
