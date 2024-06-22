@@ -53,7 +53,7 @@ An **Anagram** is a word or phrase formed by rearranging the letters of a diff
 - [oneLiner:: count characters occurrences, store them in a Hash Map, compare then]
 - [time:: O(n)]
 - [space:: O(n)]
-- [code:: [[valid_anagram.py]]] ([[Valid Anagram#Optimized 2]])
+- [code:: [valid_anagram](valid_anagram.py)] ([Valid Anagram](Valid%20Anagram.md))
 
 a="race"
 b="care"

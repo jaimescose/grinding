@@ -53,4 +53,4 @@ Given an integer array `nums`, return `true` if any value appears **at least
 - [oneLiner:: store unique numbers in a set and check for incoming ones]
 - [time:: O(n)]
 - [space:: O(n)]
-- [code:: [[contains_duplicate.py]]]
+- [code:: [contains_duplicate](coding/contains_duplicate.py)]
