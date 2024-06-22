@@ -4,83 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "606d581303131bb1",
+        "id": "b848223b5c893fa8",
         "type": "tabs",
         "children": [
           {
-            "id": "e12e1167990d5db4",
+            "id": "d3d108ae0295d2de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/View.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c9ab91cced43e14e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Not Solved.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fbd8bd57a3105e15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "coding/Contains Duplicate.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b9071f41059ab111",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "coding/Group Anagrams.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e8dabeeb631d0885",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "coding/Two Sum.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6d95c63c38248636",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "coding/Valid Anagram.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Not Solved.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Not Solved.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Not Solved.md"
+                "file": "README.md"
               }
             }
           }
@@ -208,17 +147,16 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "c9ab91cced43e14e",
+  "active": "d3d108ae0295d2de",
   "lastOpenFiles": [
+    "All.md",
+    "coding/Contains Duplicate.md",
     "Templates/View.md",
-    "Not Solved.md",
-    "Not Solved.md",
     "Templates/Coding template.md",
     "coding/Group Anagrams.md",
     "coding/Valid Anagram.md",
     "coding/Two Sum.md",
     "Blind 75.md",
-    "coding/Contains Duplicate.md",
     "README.md",
     "Mine/Unicode characters.md",
     "NeetCode 150.md",

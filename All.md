@@ -1,6 +1,6 @@
 
 ```dataviewjs
-let pages = dv.pages('"coding" and solved===');
+let pages = dv.pages('"coding"');
 for (let group of pages.groupBy(p => p.category)) {
    dv.header(3, group.key);
    dv.table(
@@ -19,7 +19,6 @@ for (let group of pages.groupBy(p => p.category)) {
 	        k.time,
 	        k.space,
 	        k.file.mday
-	        // Array.from(new Set([...k.file.inlinks, ...k.file.outlinks])) // Combine inlinks and outlinks into a set and convert back to an array
 	    ])
    );
 }
