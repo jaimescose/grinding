@@ -1,11 +1,11 @@
 ---
+solved: true
 difficulty: easy
+category: Arrays & Hashing
 topics:
   - Array
   - Hash Table
   - Sorting
-solved: true
-category: Arrays & Hashing
 tags:
   - blind75
   - neetcode150
@@ -24,6 +24,7 @@ code: obsidian://open?vault=grinding&file=coding%2Fcontains_duplicate.py
 - [[2357. Make Array Zero by Subtracting Equal Amounts]]
 ## Problem
 
+```
 Given an integer array `nums`, return `true` if any value appears **at least twice** in the array, and return `false` if every element is distinct.
 
 **Example 1:**
@@ -45,16 +46,9 @@ Given an integer array `nums`, return `true` if any value appears **at least
 
 - `1 <= nums.length <= 105`
 - `-109 <= nums[i] <= 109`
-## Solution
-
-- [oneLiner:: store unique numbers in a set and check incoming ones]
-- [time:: O(n)]
-- [space:: O(n)]
+```
 
 ### Explanation
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3OamzN90kPg?si=EJn90cCRUKa_-TG2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-### Code
-
-[Code](obsidian://open?vault=grinding&file=coding%2F217_contains_duplicate.py)
