@@ -5,11 +5,10 @@ category:
 topics: 
 tags: 
 companies: 
-link: 
-solutionLink: 
+leetcodeLink: 
+videoLink: 
 codeLink: 
 premium: false
-code:
 ---
 ## Similar Questions
 
@@ -18,16 +17,13 @@ code:
 
 ```
 ```
+
+### Explanation
+
+Embed your video solution here
 ## Solution
 
 - [oneLiner:: ]
 - [time:: O()]
 - [space:: O()]
-
-### Explanation
-
-Embed your video solution here
-
-### Code
-
-[Code]()
+- [code:: [[]]]

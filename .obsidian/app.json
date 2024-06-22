@@ -1,4 +1,9 @@
 {
   "newFileLocation": "root",
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "_assets",
+  "userIgnoreFilters": [
+    "Pipfile",
+    "Pifile.lock"
+  ]
 }

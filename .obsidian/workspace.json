@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "f7eccb9017b0e4e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "coding/Valid Anagram.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "bb77cab5a5977688",
             "type": "leaf",
             "state": {
@@ -65,8 +77,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Templates/Coding template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Templates/Coding template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Templates/Coding template.md"
               }
             }
           }
@@ -194,22 +205,22 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "c926baa3f74211c8",
+  "active": "7f288c55f70c056c",
   "lastOpenFiles": [
+    "coding/Valid Anagram.md",
+    "coding/Group Anagrams.md",
+    "Templates/Coding template.md",
+    "coding/Two Sum.md",
+    "README.md",
     "All.md",
     "Mine/Unicode characters.md",
     "NeetCode 150.md",
     "Blind 75.md",
-    "Templates/Coding template.md",
     "Mine/Amazon Interview.md",
     "coding/contains_duplicate.py",
     "coding/Contains Duplicate.md",
     "coding/valid_anagram.py",
-    "coding/Valid Anagram.md",
-    "coding/Group Anagrams.md",
-    "coding/Two Sum.md",
     "coding/test_script.py",
-    "README.md",
     "coding/Untitled.md",
     "coding/__init__.py",
     "Mine",
