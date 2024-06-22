@@ -5,11 +5,12 @@ category:
 topics: 
 tags: 
 companies: 
-leetcodeLink: 
-videoLink: 
-codeLink: 
 premium: false
 ---
+## Links
+
+- [leetcode:: ]
+- [onlineSolution:: ]
 ## Similar Questions
 
 - 
@@ -18,9 +19,10 @@ premium: false
 ```
 ```
 
-### Explanation
+## Video Explanation
 
 Embed your video solution here
+
 ## Solution
 
 - [oneLiner:: ]

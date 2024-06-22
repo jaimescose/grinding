@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7f288c55f70c056c",
+            "id": "564db6f2f4b95d67",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -74,6 +74,24 @@
               "type": "vscode-editor",
               "state": {
                 "file": "coding/valid_anagram.py"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "1a7f64a59989e4ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f288c55f70c056c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "coding/Contains Duplicate.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -205,11 +223,12 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "7f288c55f70c056c",
+  "active": "564db6f2f4b95d67",
   "lastOpenFiles": [
+    "coding/Contains Duplicate.md",
+    "Templates/Coding template.md",
     "coding/Valid Anagram.md",
     "coding/Group Anagrams.md",
-    "Templates/Coding template.md",
     "coding/Two Sum.md",
     "README.md",
     "All.md",
@@ -218,7 +237,6 @@
     "Blind 75.md",
     "Mine/Amazon Interview.md",
     "coding/contains_duplicate.py",
-    "coding/Contains Duplicate.md",
     "coding/valid_anagram.py",
     "coding/test_script.py",
     "coding/Untitled.md",
