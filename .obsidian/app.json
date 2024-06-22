@@ -5,5 +5,7 @@
   "userIgnoreFilters": [
     "Pipfile",
     "Pifile.lock"
-  ]
+  ],
+  "newLinkFormat": "absolute",
+  "useMarkdownLinks": true
 }

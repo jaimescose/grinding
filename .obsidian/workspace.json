@@ -66,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:",
+                "query": "[[",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,12 +83,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d1ff5906248455d4",
@@ -166,19 +166,19 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "a88968b5fbbca308",
+  "active": "a25571bbd099746f",
   "lastOpenFiles": [
+    "Blind 75.md",
+    "README.md",
     "_assets/Pasted image 20240621225158.png",
     "_assets/Pasted image 20240621224927.png",
     "Templates/Coding template.md",
-    "README.md",
     "Templates/View.md",
     "coding/Valid Anagram.md",
     "All.md",
     "coding/Contains Duplicate.md",
     "coding/Group Anagrams.md",
     "coding/Two Sum.md",
-    "Blind 75.md",
     "Mine/Unicode characters.md",
     "NeetCode 150.md",
     "Mine/Amazon Interview.md",
