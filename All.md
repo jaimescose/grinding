@@ -1,7 +1,6 @@
-[Practice (neetcode.io)](https://neetcode.io/practice)
 
 ```dataviewjs
-let pages = dv.pages('"coding" and #neetcode150');
+let pages = dv.pages('"coding"');
 for (let group of pages.groupBy(p => p.category)) {
    dv.header(3, group.key);
    dv.table(
