@@ -5,6 +5,9 @@ TEST_CASES = [
 ]
 
 def main(numbers_list: list[int]) -> bool:
+
+
+    
     numbers = set()
 
     for n in numbers_list:

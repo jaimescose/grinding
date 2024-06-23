@@ -11,13 +11,38 @@
             "id": "814b28bf859083cc",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7c96b43390bcd352",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "coding/Contains Duplicate.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dc87b6320be0efb1",
+            "type": "leaf",
+            "state": {
               "type": "vscode-editor",
               "state": {
-                "file": "coding/valid_anagram.py"
+                "file": "coding/contains_duplicate.py"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coding/valid_anagram.py",
+                "file": "coding/Contains Duplicate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "coding/valid_anagram.py",
+                "file": "coding/Contains Duplicate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "coding/valid_anagram.py"
+                "file": "coding/Contains Duplicate.md"
               }
             }
           }
@@ -145,34 +170,34 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "814b28bf859083cc",
+  "active": "7c96b43390bcd352",
   "lastOpenFiles": [
-    "README.md",
+    "All.md",
+    "coding/contains_duplicate.py",
     "coding/Contains Duplicate.md",
-    "Templates/Coding template.md",
     "coding/Valid Anagram.md",
     "Blind 75.md",
+    "coding/valid_anagram.py",
+    "coding/test_script.py",
+    "coding/__init__.py",
     "coding/Two Sum.md",
     "coding/Group Anagrams.md",
+    "coding",
+    "README.md",
+    "Templates/Coding template.md",
     "Templates/View.md",
     "mine/Amazon Interview.md",
     "mine/Unicode characters.md",
     "NeetCode 150.md",
-    "All.md",
     "_assets/Pasted image 20240621225158.png",
     "_assets/Pasted image 20240621224927.png",
-    "coding/contains_duplicate.py",
-    "coding/valid_anagram.py",
-    "coding/test_script.py",
     "coding/Untitled.md",
-    "coding/__init__.py",
     "mine",
     "test_script.py",
     "Untitled.canvas",
     "pytest-cache-files-_r9qc9p1",
     "Coding/Untitled.md",
     "Pipfile.lock",
-    "Pipfile",
-    "_assets"
+    "Pipfile"
   ]
 }
