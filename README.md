@@ -6,7 +6,7 @@ I've organized this vault in such a way that the friction for you to just grab a
 
 ## What you could find
 
-```shel
+```shell
 ├── All.md
 ├── Blind 75.md
 ├── NeetCode 150.md

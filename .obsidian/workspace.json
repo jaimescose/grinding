@@ -4,71 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "e8684ecf2a8dc274",
+        "id": "8b418e76ed519c0b",
         "type": "tabs",
         "children": [
           {
-            "id": "ad4ec7faa3b95dda",
+            "id": "814b28bf859083cc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "vscode-editor",
               "state": {
-                "file": "coding/Contains Duplicate.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "83d0974d6e9248c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "coding/Group Anagrams.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ed2d1548d03d99d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "coding/Two Sum.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0e3b985b258fbab0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "coding/Valid Anagram.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aa505b9944e10a47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blind 75.md",
-                "mode": "source",
-                "source": false
+                "file": "coding/valid_anagram.py"
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[[",
+                "query": "pytest",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blind 75.md",
+                "file": "coding/valid_anagram.py",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blind 75.md",
+                "file": "coding/valid_anagram.py",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blind 75.md"
+                "file": "coding/valid_anagram.py"
               }
             }
           }
@@ -196,19 +145,19 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "aa505b9944e10a47",
+  "active": "814b28bf859083cc",
   "lastOpenFiles": [
     "README.md",
+    "coding/Contains Duplicate.md",
+    "Templates/Coding template.md",
     "coding/Valid Anagram.md",
+    "Blind 75.md",
     "coding/Two Sum.md",
     "coding/Group Anagrams.md",
-    "coding/Contains Duplicate.md",
     "Templates/View.md",
-    "Templates/Coding template.md",
     "mine/Amazon Interview.md",
     "mine/Unicode characters.md",
     "NeetCode 150.md",
-    "Blind 75.md",
     "All.md",
     "_assets/Pasted image 20240621225158.png",
     "_assets/Pasted image 20240621224927.png",
