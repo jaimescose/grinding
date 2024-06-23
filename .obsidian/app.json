@@ -2,10 +2,7 @@
   "newFileLocation": "root",
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "_assets",
-  "userIgnoreFilters": [
-    "Pipfile",
-    "Pifile.lock"
-  ],
+  "userIgnoreFilters": null,
   "newLinkFormat": "shortest",
   "useMarkdownLinks": true
 }
