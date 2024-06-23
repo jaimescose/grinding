@@ -1,17 +1,1 @@
-{
-  "app:go-back": [
-    {
-      "modifiers": [
-        "Mod",
-        "Alt"
-      ],
-      "key": "ArrowLeft"
-    },
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "Backspace"
-    }
-  ]
-}
+{}
